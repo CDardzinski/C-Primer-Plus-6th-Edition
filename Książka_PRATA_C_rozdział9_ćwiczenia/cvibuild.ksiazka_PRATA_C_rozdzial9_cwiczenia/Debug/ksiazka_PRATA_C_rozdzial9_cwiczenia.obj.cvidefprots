@@ -1,0 +1,120 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:52:5"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:66:17"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:88:17"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:121:17"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:157:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:181:17"
+
+[Przyklad6ButtonCallback]
+Class="Function"
+Prototype="int Przyklad6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:207:17"
+
+[Przyklad7ButtonCallback]
+Class="Function"
+Prototype="int Przyklad7ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:233:17"
+
+[Przyklad8ButtonCallback]
+Class="Function"
+Prototype="int Przyklad8ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:252:17"
+
+[Przyklad9ButtonCallback]
+Class="Function"
+Prototype="int Przyklad9ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:279:17"
+
+[Przyklad10ButtonCallback]
+Class="Function"
+Prototype="int Przyklad10ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:307:17"
+
+[Przyklad11ButtonCallback]
+Class="Function"
+Prototype="int Przyklad11ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:333:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:351:17"
+
+[min]
+Class="Function"
+Prototype="double min(double x, double y);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:363:8"
+
+[rzad_zn]
+Class="Function"
+Prototype="int rzad_zn(char ch, int i, int j);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:369:5"
+
+[wiersz]
+Class="Function"
+Prototype="int wiersz(char znak, int liczbaZnakow, int liczbaWierszy);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:380:5"
+
+[sredniaHarmoniczna]
+Class="Function"
+Prototype="double sredniaHarmoniczna(double liczba1, double liczba2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:392:8"
+
+[wieksze_od]
+Class="Function"
+Prototype="void wieksze_od(double *liczba1, double *liczba2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:399:6"
+
+[porzadek]
+Class="Function"
+Prototype="void porzadek(double *najmniejsza, double *srodkowa, double *najwieksza);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:408:6"
+
+[numerWalfabecie]
+Class="Function"
+Prototype="int numerWalfabecie(char znak);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:433:5"
+
+[potega]
+Class="Function"
+Prototype="double potega(double a, int b);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:455:8"
+
+[potegaRekurencja]
+Class="Function"
+Prototype="double potegaRekurencja(double a, int b);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:484:8"
+
+[do_podst_n]
+Class="Function"
+Prototype="void do_podst_n(unsigned long n, unsigned int System);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:511:6"
+
+[Fibonacci]
+Class="Function"
+Prototype="unsigned long Fibonacci(unsigned int n);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9_æwiczenia\ksiazka_PRATA_C_rozdzial9_cwiczenia.c:522:15"
+

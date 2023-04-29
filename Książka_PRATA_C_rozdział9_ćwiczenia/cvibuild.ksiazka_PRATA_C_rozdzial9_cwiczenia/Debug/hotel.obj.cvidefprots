@@ -1,0 +1,15 @@
+[menu]
+Class="Function"
+Prototype="int menu();"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9\hotel.c:5:5"
+
+[pobierz_noce]
+Class="Function"
+Prototype="int pobierz_noce();"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9\hotel.c:22:5"
+
+[pokaz_cene]
+Class="Function"
+Prototype="void pokaz_cene(double hotel, int noce);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³9\hotel.c:33:6"
+
