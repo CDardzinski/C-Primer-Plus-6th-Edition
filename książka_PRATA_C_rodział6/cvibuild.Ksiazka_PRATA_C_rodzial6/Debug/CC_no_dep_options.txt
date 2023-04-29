@@ -1,0 +1,1 @@
+-force-include-file "Ksiazka_PRATA_C_rodzial6.c";"d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rodzia³6\Ksiazka_PRATA_C_rodzial6.c" -force-include-file "ksiazka_PRATA_C_rozdzial5.c";"d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rodzial5\ksiazka_PRATA_C_rozdzial5.c" 

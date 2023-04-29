@@ -1,0 +1,75 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:15:5"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:29:17"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:50:17"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:63:17"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:77:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:91:17"
+
+[Przyklad6ButtonCallback]
+Class="Function"
+Prototype="int Przyklad6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:269:17"
+
+[Przyklad7ButtonCallback]
+Class="Function"
+Prototype="int Przyklad7ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:304:17"
+
+[Przyklad8ButtonCallback]
+Class="Function"
+Prototype="int Przyklad8ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:404:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:495:17"
+
+[liczenie]
+Class="Function"
+Prototype="void liczenie();"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:507:6"
+
+[pobierz_wybor]
+Class="Function"
+Prototype="char pobierz_wybor();"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:519:6"
+
+[pobierz_pierwszy]
+Class="Function"
+Prototype="char pobierz_pierwszy();"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:535:6"
+
+[pobierz_int]
+Class="Function"
+Prototype="int pobierz_int();"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:548:5"
+
+[pobierz_znaki]
+Class="Function"
+Prototype="int pobierz_znaki(double *pierwszaLiczbaDouble, double *drugaLiczbaDouble, int dzielenie);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rozdzial8_æwieczenia\ksiazka_PRATA_C_rozdzial8_cwiczenia.c:563:5"
+

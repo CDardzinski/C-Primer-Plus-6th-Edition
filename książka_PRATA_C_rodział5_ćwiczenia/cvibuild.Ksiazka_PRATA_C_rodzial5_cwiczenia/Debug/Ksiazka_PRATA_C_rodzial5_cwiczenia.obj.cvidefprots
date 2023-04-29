@@ -1,0 +1,65 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:14:5"
+
+[Przyklad1Callback]
+Class="Function"
+Prototype="int Przyklad1Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:31:17"
+
+[Przyklad2Callback]
+Class="Function"
+Prototype="int Przyklad2Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:71:17"
+
+[Przyklad3Callback]
+Class="Function"
+Prototype="int Przyklad3Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:99:17"
+
+[Przyklad4Callback]
+Class="Function"
+Prototype="int Przyklad4Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:131:17"
+
+[Przyklad5Callback]
+Class="Function"
+Prototype="int Przyklad5Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:165:17"
+
+[Przyklad6Callback]
+Class="Function"
+Prototype="int Przyklad6Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:194:17"
+
+[Przyklad7Callback]
+Class="Function"
+Prototype="int Przyklad7Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:224:17"
+
+[Przyklad8Callback]
+Class="Function"
+Prototype="int Przyklad8Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:247:17"
+
+[Przyklad9Callback]
+Class="Function"
+Prototype="int Przyklad9Callback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:283:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:318:17"
+
+[PrzeliczFloatDoTrzeciePotegi]
+Class="Function"
+Prototype="int PrzeliczFloatDoTrzeciePotegi(float liczba, float *liczbaWTrzeciejPotedze);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:329:5"
+
+[PrzeliczFahrenheitaNaCelsjuszaKelwina]
+Class="Function"
+Prototype="int PrzeliczFahrenheitaNaCelsjuszaKelwina(double TempFahrenheit);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rodzia³5_æwiczenia\Ksiazka_PRATA_C_rodzial5_cwiczenia.c:336:5"
+
