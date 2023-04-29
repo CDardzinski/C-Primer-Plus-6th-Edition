@@ -1,0 +1,42 @@
+-nologo
+-out:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\cvibuild.ksiazka_PRATA_C_rozdzial17_æwiczenia\Debug\ksiazka_PRATA_C_rozdzial17_æwiczenia.exe
+-arch:x86
+-timestamp
+-debug:3
+-project:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\ksiazka_PRATA_C_rozdzial17_æwiczenia.prj
+-res:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\cvibuild.ksiazka_PRATA_C_rozdzial17_æwiczenia\Debug\resources.res
+-entry:_CVIWinMainStartupCodeForDebugging@0
+-base:0x400000
+-linked:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\cvibuild.ksiazka_PRATA_C_rozdzial17_æwiczenia\Debug\linkersummary.txt
+-dlldeps:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\cvibuild.ksiazka_PRATA_C_rozdzial17_æwiczenia\Debug\dlldependencies.txt
+-licensing:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\cvibuild.ksiazka_PRATA_C_rozdzial17_æwiczenia\Debug\linkerlicensing.txt
+-browsedeps:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\cvibuild.ksiazka_PRATA_C_rozdzial17_æwiczenia\Debug\moduledependencies.txt
+-stackreserve:1048576
+-stackcommit:4096
+-in:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\cvibuild.ksiazka_PRATA_C_rozdzial17_æwiczenia\Debug\ksiazka_PRATA_C_rozdzial17_æwiczenia.obj
+-in:d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17_æwiczenia\cvibuild.ksiazka_PRATA_C_rozdzial17_æwiczenia\Debug\lista_cw3.obj
+-more:c:\program files\national instruments\cvi2020\bin\msvc\cvistart.lib
+-more:c:\program files\national instruments\cvi2020\bin\msvc\cvi.lib
+-more:c:\Program Files\National Instruments\CVI2020\toolslib\custctrl\msvc\3DGraphCtrl.obj
+-more:C:\Program Files\Windows Kits\8.1\Lib\winv6.3\um\x86\advapi32.lib
+-more:c:\Program Files\National Instruments\CVI2020\toolslib\toolbox\msvc\asynctmr.obj
+-more:C:\Program Files\Windows Kits\8.1\Lib\winv6.3\um\x86\bufferoverflowu.lib
+-more:c:\Program Files\National Instruments\CVI2020\toolslib\custctrl\custsupp\msvc\ckcviogl.obj
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\cviauto.lib
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\cvidotnet.lib
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\cvinetstreams.lib
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\cvinetv.lib
+-more:c:\Program Files\National Instruments\CVI2020\toolslib\custctrl\msvc\cviogl.lib
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\cvitdms.lib
+-more:C:\Program Files\Windows Kits\8.1\Lib\winv6.3\um\x86\gdi32.lib
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\gpib.lib
+-more:C:\Program Files\Windows Kits\8.1\Lib\winv6.3\um\x86\kernel32.lib
+-more:c:\Program Files\National Instruments\Shared\CVI\Bin\msvc\nisyscfg.lib
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\nivxi.lib
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\omp.lib
+-more:c:\Program Files\National Instruments\CVI2020\bin\msvc\reganlys.lib
+-more:c:\Program Files\National Instruments\CVI2020\toolslib\toolbox\msvc\toolbox.obj
+-more:C:\Program Files\Windows Kits\8.1\Lib\winv6.3\um\x86\user32.lib
+-more:C:\Program Files\Windows Kits\8.1\Lib\winv6.3\um\x86\uuid.lib
+-more:c:\Program Files\National Instruments\Shared\CVI\Bin\msvc\visa.lib
+-more:C:\Program Files\Windows Kits\8.1\Lib\winv6.3\um\x86\winmm.lib

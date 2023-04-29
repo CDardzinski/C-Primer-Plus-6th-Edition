@@ -1,0 +1,9 @@
+ksiazka_PRATA_C_rozdzial17_æwiczenia.obj
+lista_cw2.obj
+cvi.lib
+cvistart.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module
