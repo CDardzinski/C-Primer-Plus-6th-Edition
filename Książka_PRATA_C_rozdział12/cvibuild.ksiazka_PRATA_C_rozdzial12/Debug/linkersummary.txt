@@ -1,0 +1,10 @@
+czescb.obj
+ksiazka_PRATA_C_rozdzial12.obj
+rand0.obj
+cvi.lib
+cvistart.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module

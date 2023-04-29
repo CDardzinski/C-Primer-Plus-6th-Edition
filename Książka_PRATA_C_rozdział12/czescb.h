@@ -1,0 +1,1 @@
+void sumuj(int k);

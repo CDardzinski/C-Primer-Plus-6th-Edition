@@ -1,0 +1,3 @@
+Czemu ten plik 
+jest pusty.
+Zapelniam go danymi.

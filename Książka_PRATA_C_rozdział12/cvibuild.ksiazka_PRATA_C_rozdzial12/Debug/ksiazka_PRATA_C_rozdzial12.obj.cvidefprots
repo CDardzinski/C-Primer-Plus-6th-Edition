@@ -1,0 +1,75 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:43:5"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:57:17"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:88:17"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:115:17"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:134:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:153:17"
+
+[Przyklad8ButtonCallback]
+Class="Function"
+Prototype="int Przyklad8ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:178:17"
+
+[Przyklad10ButtonCallback]
+Class="Function"
+Prototype="int Przyklad10ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:194:17"
+
+[Przyklad13ButtonCallback]
+Class="Function"
+Prototype="int Przyklad13ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:219:17"
+
+[Przyklad14ButtonCallback]
+Class="Function"
+Prototype="int Przyklad14ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:264:17"
+
+[Przyklad15ButtonCallback]
+Class="Function"
+Prototype="int Przyklad15ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:309:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:340:17"
+
+[sprawdz_stat]
+Class="Function"
+Prototype="void sprawdz_stat();"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:351:6"
+
+[krytyka]
+Class="Function"
+Prototype="void krytyka();"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:358:6"
+
+[podaj_liczbe]
+Class="Function"
+Prototype="void podaj_liczbe();"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rozdzia³12\ksiazka_PRATA_C_rozdzial12.c:366:6"
+

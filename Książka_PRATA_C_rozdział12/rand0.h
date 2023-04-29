@@ -1,0 +1,1 @@
+int randO(void);
