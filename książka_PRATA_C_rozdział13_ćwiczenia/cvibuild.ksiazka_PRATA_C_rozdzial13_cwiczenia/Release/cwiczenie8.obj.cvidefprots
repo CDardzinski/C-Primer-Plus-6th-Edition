@@ -1,0 +1,10 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13_æwiczenia\cwiczenie8.c:11:5"
+
+[EntryStandardIO]
+Class="Function"
+Prototype="int EntryStandardIO(char znakSzukany);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13_æwiczenia\cwiczenie8.c:84:5"
+

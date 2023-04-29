@@ -1,0 +1,10 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13_æwiczenia\cwiczenie7b.c:10:5"
+
+[odczytWypisz]
+Class="Function"
+Prototype="char odczytWypisz(struct FILE *plik);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13_æwiczenia\cwiczenie7b.c:68:6"
+

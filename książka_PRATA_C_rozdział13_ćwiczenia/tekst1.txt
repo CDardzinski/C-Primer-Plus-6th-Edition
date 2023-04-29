@@ -1,0 +1,6 @@
+prosty wiersz 1 
+pierwszy bedzie 2 
+ale nie ostatni 3 
+cos jeszcze dopisze 4 
+zeby sprawdzic czy 5 
+na pewno dziala dobrze 6 

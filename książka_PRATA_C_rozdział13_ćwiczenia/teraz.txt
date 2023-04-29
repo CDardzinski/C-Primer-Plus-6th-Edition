@@ -1,0 +1,1 @@
+Jest tu tekst, ktory moge obrabiac.
