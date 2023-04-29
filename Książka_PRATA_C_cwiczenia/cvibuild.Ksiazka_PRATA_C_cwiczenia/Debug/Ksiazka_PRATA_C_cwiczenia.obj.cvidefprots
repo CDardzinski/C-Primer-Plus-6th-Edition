@@ -1,0 +1,70 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:18:5"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:32:17"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:60:17"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:80:17"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:103:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:126:17"
+
+[Przyklad11ButtonCallback]
+Class="Function"
+Prototype="int Przyklad11ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:149:17"
+
+[Przyklad12ButtonCallback]
+Class="Function"
+Prototype="int Przyklad12ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:170:17"
+
+[Przyklad13ButtonCallback]
+Class="Function"
+Prototype="int Przyklad13ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:195:17"
+
+[Przyklad14ButtonCallback]
+Class="Function"
+Prototype="int Przyklad14ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:215:17"
+
+[Przyklad15ButtonCallback]
+Class="Function"
+Prototype="int Przyklad15ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:234:17"
+
+[Przyklad16ButtonCallback]
+Class="Function"
+Prototype="int Przyklad16ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:256:17"
+
+[Przyklad17ButtonCallback]
+Class="Function"
+Prototype="int Przyklad17ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:282:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c:301:17"
+

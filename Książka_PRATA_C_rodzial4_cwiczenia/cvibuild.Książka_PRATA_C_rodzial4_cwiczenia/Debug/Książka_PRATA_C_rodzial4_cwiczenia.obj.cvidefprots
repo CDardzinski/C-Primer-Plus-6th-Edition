@@ -1,0 +1,50 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:11:5"
+
+[Cwiczenie1ButtonCallback]
+Class="Function"
+Prototype="int Cwiczenie1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:25:17"
+
+[Cwiczenie2ButtonCallback]
+Class="Function"
+Prototype="int Cwiczenie2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:46:17"
+
+[Cwiczenie3ButtonCallback]
+Class="Function"
+Prototype="int Cwiczenie3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:72:17"
+
+[Cwiczenie4ButtonCallback]
+Class="Function"
+Prototype="int Cwiczenie4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:93:17"
+
+[Cwiczenie5ButtonCallback]
+Class="Function"
+Prototype="int Cwiczenie5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:116:17"
+
+[Cwiczenie6ButtonCallback]
+Class="Function"
+Prototype="int Cwiczenie6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:141:17"
+
+[Cwiczenie7ButtonCallback]
+Class="Function"
+Prototype="int Cwiczenie7ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:170:17"
+
+[Cwiczenie8ButtonCallback]
+Class="Function"
+Prototype="int Cwiczenie8ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:198:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c:224:17"
+

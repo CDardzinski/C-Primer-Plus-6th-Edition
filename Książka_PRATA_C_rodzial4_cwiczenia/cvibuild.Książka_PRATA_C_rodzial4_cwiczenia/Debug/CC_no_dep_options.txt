@@ -1,0 +1,1 @@
+-force-include-file "Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c";"d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia\Ksi¹¿ka_PRATA_C_rodzial4_cwiczenia.c" 

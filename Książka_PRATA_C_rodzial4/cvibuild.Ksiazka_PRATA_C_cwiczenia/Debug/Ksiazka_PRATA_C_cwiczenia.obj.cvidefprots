@@ -1,0 +1,75 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:23:5"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:37:17"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:65:17"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:85:17"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:108:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:131:17"
+
+[Przyklad11ButtonCallback]
+Class="Function"
+Prototype="int Przyklad11ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:154:17"
+
+[Przyklad12ButtonCallback]
+Class="Function"
+Prototype="int Przyklad12ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:175:17"
+
+[Przyklad13ButtonCallback]
+Class="Function"
+Prototype="int Przyklad13ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:200:17"
+
+[Przyklad14ButtonCallback]
+Class="Function"
+Prototype="int Przyklad14ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:220:17"
+
+[Przyklad15ButtonCallback]
+Class="Function"
+Prototype="int Przyklad15ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:239:17"
+
+[Przyklad16ButtonCallback]
+Class="Function"
+Prototype="int Przyklad16ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:261:17"
+
+[Przyklad17ButtonCallback]
+Class="Function"
+Prototype="int Przyklad17ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:287:17"
+
+[Przyklad18ButtonCallback]
+Class="Function"
+Prototype="int Przyklad18ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:306:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Bie¿¹ce_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\Ksi¹¿ka_PRATA_C_rodzial4\Ksiazka_PRATA_C_cwiczenia.c:337:17"
+

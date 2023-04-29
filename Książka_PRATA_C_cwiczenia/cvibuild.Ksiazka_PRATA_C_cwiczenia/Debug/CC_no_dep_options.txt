@@ -1,0 +1,1 @@
+-force-include-file "Ksiazka_PRATA_C_cwiczenia.c";"d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_cwiczenia\Ksiazka_PRATA_C_cwiczenia.c" 
