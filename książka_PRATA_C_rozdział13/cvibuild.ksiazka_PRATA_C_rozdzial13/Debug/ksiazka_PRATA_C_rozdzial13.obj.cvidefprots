@@ -1,0 +1,35 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13\ksiazka_PRATA_C_rozdzial13.c:25:5"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13\ksiazka_PRATA_C_rozdzial13.c:39:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13\ksiazka_PRATA_C_rozdzial13.c:75:17"
+
+[Przyklad6ButtonCallback]
+Class="Function"
+Prototype="int Przyklad6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13\ksiazka_PRATA_C_rozdzial13.c:139:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13\ksiazka_PRATA_C_rozdzial13.c:189:17"
+
+[dopisz]
+Class="Function"
+Prototype="void dopisz(struct FILE *zrodlo, struct FILE *cel);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13\ksiazka_PRATA_C_rozdzial13.c:200:6"
+
+[wczytaj]
+Class="Function"
+Prototype="char *wczytaj(char *z, int ile);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³13\ksiazka_PRATA_C_rozdzial13.c:207:7"
+

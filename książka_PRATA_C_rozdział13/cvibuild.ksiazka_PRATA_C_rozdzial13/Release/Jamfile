@@ -1,0 +1,45 @@
+HDRS = 	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\activex\\word"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\activex\\excel"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\custctrl"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\custctrl\\custsupp"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\cvirtsup"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\datasock"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\daqUtil"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\printing"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\toolbox"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\reportgen"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\localui"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\instr"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl\\custsupp"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\instr"
+	"C:\\ProgramData\\National Instruments\\CVI2020\\instr"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\include"
+	"C:\\ProgramData\\National Instruments\\CVI2020\\include"
+	"C:\\ProgramData\\National Instruments\\CVI\\include"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include\\ansi"
+	"c:\\program files (x86)\\national instruments\\cvi2020\\include\\clang\\3.3"
+	"c:\\Program Files\\IVI Foundation\\IVI\\Include"
+	"C:\\VXIpnp\\winnt\\include"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\MSDTRedistributables\\SDKHeaderFiles\\8.1"
+	"c:\\Program Files (x86)\\National Instruments\\CVI2020\\bin"
+	"c:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\Bin"
+	;
+include Jamfile_instr ;
+LOCATE on "dodajsl.c" = "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13" ;
+LOCATE on "ksiazka_PRATA_C_rozdzial12.c" = "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\Ksi¹¿ka_PRATA_C_rozdzia³12" ;
+LOCATE on "ksiazka_PRATA_C_rozdzial13.c" = "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13" ;
+LOCATE on "licz.c" = "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13" ;
+LOCATE on "reduktor.c" = "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia" ;
+Object "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.obj" : "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\dodajsl.c" ;
+FILENUM on "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.obj" = 1 ;
+DEFPROTS on "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.obj" = "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.obj.cvidefprots" ;
+OUTFILE on "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.obj" = "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.obj.out" ;
+PrjObjects += "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.obj" ;
+Object "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\resources.res" : "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\resources.in.rc" ;
+Depends "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\resources.res" : "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\manifest.xml" ;
+MainFromObjects "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.exe" : $(PrjObjects) $(InstrObjects) ;
+Depends "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.exe" : "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\link_options.txt" ;
+Depends "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.exe" : "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\resources.res" ;
+Depends all : "d:\\Elektronika\\KOD\\Szko³a_porgramowania_C_PRATA\\ksi¹¿ka_PRATA_C_rozdzia³13\\cvibuild.ksiazka_PRATA_C_rozdzial13\\Release\\dodajsl.exe" ;
