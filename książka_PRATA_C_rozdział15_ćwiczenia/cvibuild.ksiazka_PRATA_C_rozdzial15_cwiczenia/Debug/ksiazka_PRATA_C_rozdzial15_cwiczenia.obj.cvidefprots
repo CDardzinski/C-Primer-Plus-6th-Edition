@@ -1,0 +1,70 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:45:5"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:57:17"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:70:17"
+
+[pokazLiczbeBINtoDEC]
+Class="Function"
+Prototype="int pokazLiczbeBINtoDEC(char *pobranyLancuch);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:90:5"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:101:17"
+
+[przerzucDECnaBIN]
+Class="Function"
+Prototype="void przerzucDECnaBIN(int wsad, char *daneWyjsciowe);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:153:6"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:165:17"
+
+[SprIleBitowJestWlaczonych]
+Class="Function"
+Prototype="int SprIleBitowJestWlaczonych(int wsad);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:182:5"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:199:17"
+
+[SprKtoryBitJestWlaczonych]
+Class="Function"
+Prototype="int SprKtoryBitJestWlaczonych(int wsad, int numerBitu);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:215:5"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:228:17"
+
+[obroc_l]
+Class="Function"
+Prototype="int obroc_l(int wsad, int ileRazy);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:246:5"
+
+[Przyklad6ButtonCallback]
+Class="Function"
+Prototype="int Przyklad6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:267:17"
+
+[Przyklad7ButtonCallback]
+Class="Function"
+Prototype="int Przyklad7ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15_æwiczenia\ksiazka_PRATA_C_rozdzial15_cwiczenia.c:409:17"
+

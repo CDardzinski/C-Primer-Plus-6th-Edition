@@ -1,0 +1,80 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:65:5"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:77:17"
+
+[PrzykladExtraButtonCallback]
+Class="Function"
+Prototype="int PrzykladExtraButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:90:17"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:110:17"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:125:17"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:142:17"
+
+[DaneBiegunoweNaKartezjanskie]
+Class="Function"
+Prototype="struct kartez DaneBiegunoweNaKartezjanskie(double DlugoscWektora, double Kat);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:163:8"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:175:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:204:17"
+
+[WyswietlTablice]
+Class="Function"
+Prototype="int WyswietlTablice(const int *Tablica, int RozmiarTAB, int LiczbaPozycji);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:230:5"
+
+[Przyklad6ButtonCallback]
+Class="Function"
+Prototype="int Przyklad6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:254:17"
+
+[pokaz_tab]
+Class="Function"
+Prototype="void pokaz_tab();"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:271:6"
+
+[porownaj]
+Class="Function"
+Prototype="int porownaj(const void *w1, const void *w2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:281:5"
+
+[Przyklad7ButtonCallback]
+Class="Function"
+Prototype="int Przyklad7ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:298:17"
+
+[pokaz_tablice]
+Class="Function"
+Prototype="void pokaz_tablice(const double tab[], int n);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:320:6"
+
+[nowa_tablica]
+Class="Function"
+Prototype="double *nowa_tablica(int n, ...);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16_æwiczenia\ksiazka_PRATA_C_rozdzial16_cwiczenia.c:327:9"
+

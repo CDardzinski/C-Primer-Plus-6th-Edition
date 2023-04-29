@@ -1,0 +1,15 @@
+[wprowadz]
+Class="Function"
+Prototype="void wprowadz(struct daneos_st *wskn);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16\daneos.c:6:6"
+
+[wyswietl]
+Class="Function"
+Prototype="void wyswietl(const struct daneos_st *wskn);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16\daneos.c:15:6"
+
+[wczytaj]
+Class="Function"
+Prototype="char *wczytaj(char *z, int ile);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³16\daneos.c:19:7"
+

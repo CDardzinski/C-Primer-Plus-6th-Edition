@@ -1,0 +1,75 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:81:5"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:95:17"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:124:17"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:157:17"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:181:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:216:17"
+
+[Przyklad6ButtonCallback]
+Class="Function"
+Prototype="int Przyklad6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:245:17"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:266:17"
+
+[do_binar]
+Class="Function"
+Prototype="char *do_binar(int n, char *wsk);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:278:7"
+
+[pokaz_binar]
+Class="Function"
+Prototype="void pokaz_binar(const char *lan);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:288:6"
+
+[odwroc_koniec]
+Class="Function"
+Prototype="int odwroc_koniec(int num, int bity);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:300:5"
+
+[pokaz_ustawienia]
+Class="Function"
+Prototype="void pokaz_ustawienia(const struct wl_okna *okno);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:314:6"
+
+[wyswietl]
+Class="Function"
+Prototype="void wyswietl(const struct wl_okna *okno);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:331:6"
+
+[wyswietl1]
+Class="Function"
+Prototype="void wyswietl1(const unsigned short us);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:346:6"
+
+[int_do_binar]
+Class="Function"
+Prototype="char *int_do_binar(int n, char *wl);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³15\ksiazka_PRATA_C_rozdzial15.c:361:7"
+

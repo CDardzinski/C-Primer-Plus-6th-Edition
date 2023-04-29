@@ -1,0 +1,8 @@
+ksiazka_PRATA_C_rozdzial15_cwiczenia.obj
+cvi.lib
+cvistart.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module
