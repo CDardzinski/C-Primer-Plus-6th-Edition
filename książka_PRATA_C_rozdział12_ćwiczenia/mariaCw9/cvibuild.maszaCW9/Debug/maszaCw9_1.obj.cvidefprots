@@ -1,0 +1,15 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\mariaCw9\maszaCw9_1.c:8:5"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\mariaCw9\maszaCw9_1.c:20:17"
+
+[MaszaCallback]
+Class="Function"
+Prototype="int MaszaCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\mariaCw9\maszaCw9_1.c:32:17"
+

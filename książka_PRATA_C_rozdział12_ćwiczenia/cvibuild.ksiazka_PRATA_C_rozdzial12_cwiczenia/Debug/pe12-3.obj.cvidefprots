@@ -1,0 +1,15 @@
+[wybierz_tryb_auto]
+Class="Function"
+Prototype="int wybierz_tryb_auto(int wybrany, int tryb);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\pe12-3.c:8:5"
+
+[pobierz_dane_auto]
+Class="Function"
+Prototype="void pobierz_dane_auto(int *dystans, double *paliwo, int wybrany);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\pe12-3.c:19:6"
+
+[wyswietl_dane_auto]
+Class="Function"
+Prototype="void wyswietl_dane_auto(int dystans, double paliwo, int wybrany);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\pe12-3.c:35:6"
+

@@ -1,0 +1,1 @@
+-force-include-file "maszaCW9.c";"d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\mariaCw9\maszaCW9.c" -force-include-file "maszaCw9_1.c";"d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\mariaCw9\maszaCw9_1.c" 

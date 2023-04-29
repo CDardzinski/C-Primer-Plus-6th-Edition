@@ -1,0 +1,10 @@
+[rzucaj]
+Class="Function"
+Prototype="int rzucaj(int scianki);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\rzutkosc_cwiczenia.c:12:5"
+
+[rzucaj_n_razy]
+Class="Function"
+Prototype="int rzucaj_n_razy(int rzuty, int scianki);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\rzutkosc_cwiczenia.c:20:5"
+

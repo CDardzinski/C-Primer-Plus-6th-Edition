@@ -1,0 +1,15 @@
+[wybierz_tryb]
+Class="Function"
+Prototype="void wybierz_tryb(int tryb);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\pe12-2a.c:12:6"
+
+[pobierz_dane]
+Class="Function"
+Prototype="void pobierz_dane();"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\pe12-2a.c:22:6"
+
+[wyswietl_dane]
+Class="Function"
+Prototype="void wyswietl_dane();"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³12_æwiczenia\pe12-2a.c:38:6"
+
