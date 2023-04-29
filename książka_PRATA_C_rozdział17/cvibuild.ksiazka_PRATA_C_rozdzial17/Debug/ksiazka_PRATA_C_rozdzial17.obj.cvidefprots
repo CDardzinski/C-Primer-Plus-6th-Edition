@@ -1,0 +1,95 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:54:5"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:68:17"
+
+[wczytaj]
+Class="Function"
+Prototype="char *wczytaj(char *z, int ile);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:101:7"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:121:17"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:182:17"
+
+[pokazfilm]
+Class="Function"
+Prototype="void pokazfilm(struct film3 pozycja);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:236:6"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:243:17"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:294:17"
+
+[nowyklient]
+Class="Function"
+Prototype="bool nowyklient(double x);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:368:6"
+
+[czasklienta]
+Class="Function"
+Prototype="struct pozycja_porady czasklienta(long kiedy);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:379:17"
+
+[Przyklad6ButtonCallback]
+Class="Function"
+Prototype="int Przyklad6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:389:17"
+
+[menu]
+Class="Function"
+Prototype="char menu();"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:422:6"
+
+[dodajzw]
+Class="Function"
+Prototype="void dodajzw(struct drzewo *wd);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:445:6"
+
+[usunzw]
+Class="Function"
+Prototype="void usunzw(struct drzewo *wd);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:461:6"
+
+[pokazzw]
+Class="Function"
+Prototype="void pokazzw(const struct drzewo *wd);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:482:6"
+
+[szukajzw]
+Class="Function"
+Prototype="void szukajzw(const struct drzewo *wd);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:489:6"
+
+[wyswpoz]
+Class="Function"
+Prototype="void wyswpoz(struct Pozycja pozycja);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:509:6"
+
+[duzelit]
+Class="Function"
+Prototype="void duzelit(char *lan);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:513:6"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\ksiazka_PRATA_C_rozdzial17.c:522:17"
+

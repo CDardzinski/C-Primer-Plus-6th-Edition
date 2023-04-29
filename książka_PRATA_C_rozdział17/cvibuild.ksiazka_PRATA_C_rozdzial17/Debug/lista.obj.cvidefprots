@@ -1,0 +1,35 @@
+[InicjujListe]
+Class="Function"
+Prototype="void InicjujListe(struct wezel **wlista);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\lista.c:12:6"
+
+[PustaLista]
+Class="Function"
+Prototype="bool PustaLista(struct wezel *const *wlista);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\lista.c:17:6"
+
+[PelnaLista]
+Class="Function"
+Prototype="bool PelnaLista(struct wezel *const *wlista);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\lista.c:24:6"
+
+[LiczbaPozycji]
+Class="Function"
+Prototype="unsigned int LiczbaPozycji(struct wezel *const *wlista);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\lista.c:37:14"
+
+[DodajPozycje]
+Class="Function"
+Prototype="bool DodajPozycje(struct film3 pozycja, struct wezel **wlista);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\lista.c:49:6"
+
+[Przejdz]
+Class="Function"
+Prototype="void Przejdz(struct wezel *const *wlista, void (*wfun)(struct film3));"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\lista.c:70:6"
+
+[CzyscListe]
+Class="Function"
+Prototype="void CzyscListe(struct wezel **wlista);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\lista.c:80:6"
+

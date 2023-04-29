@@ -1,0 +1,382 @@
+[Workspace Header]
+Version = 2000
+Pathname Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Pathname Line0002 = "siazka_PRATA_C_rozdzial17.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2020"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2020"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/c/Program Files/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/VXIpnp/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 2
+Active Project = 1
+Project 0001 = "ksiazka_PRATA_C_rozdzial17.prj"
+Project 0002 = "ksiazka_PRATA_C_rozdzial17_porady.prj"
+Drag Bar Left = 263
+Window Top = 31
+Window Left = 729
+Window Bottom = 820
+Window Right = 2645
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 9
+Window Confinement Region Enabled = True
+MainColumnWidth = 246
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 2000
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[Project Header 0002]
+Version = 2000
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Path Line0002 = "siazka_PRATA_C_rozdzial17.uir"
+File Type = "User Interface Resource"
+Disk Date = 3725638048
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 401
+Window Width = 728
+Window Z-Order = 2
+
+[File 0002]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Path Line0002 = "siazka_PRATA_C_rozdzial17.c"
+File Type = "CSource"
+Disk Date = 3725638031
+In Projects = "1,"
+Source Window State = "1,410,410,410,46,46,46,0,0,0,0,0,0,0,0,0,379,0,410,46,400,600,1,0,"
+Window Top = 31
+Window Z-Order = 1
+
+[File 0003]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/l"
+Path Line0002 = "ista.h"
+File Type = "Include"
+Disk Date = 3725467329
+In Projects = "1,"
+Source Window State = "1,15,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,427,729,1,0,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 4
+
+[File 0004]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/l"
+Path Line0002 = "ista.c"
+File Type = "CSource"
+Disk Date = 3725466454
+In Projects = "1,"
+Source Window State = "1,43,43,43,0,12,12,0,3,0,0,0,0,0,0,0,0,0,43,0,427,729,1,0,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 3
+
+[File 0005]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Path Line0002 = "olejka.h"
+File Type = "Include"
+Disk Date = 3725465675
+In Projects = "1,2,"
+Source Window State = "1,22,22,22,15,28,15,0,3,0,0,0,0,0,0,0,0,0,22,28,427,729,1,0,"
+Window Top = 126
+Window Left = 58
+Window Z-Order = 5
+
+[File 0006]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Path Line0002 = "olejka.c"
+File Type = "CSource"
+Disk Date = 3725459290
+In Projects = "1,2,"
+Source Window State = "1,23,23,23,4,24,4,0,3,0,0,0,0,0,0,0,0,0,23,24,400,600,1,0,"
+Window Top = 31
+Window Z-Order = 6
+
+[File 0007]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/p"
+Path Line0002 = "orady_kolejka.h"
+File Type = "Include"
+Disk Date = 3725505499
+In Projects = "1,2,"
+Source Window State = "1,5,5,5,15,29,15,0,3,0,0,0,0,0,0,0,0,0,5,29,401,728,1,0,"
+Window Top = 95
+Window Left = 42
+Window Z-Order = 9
+
+[File 0008]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/d"
+Path Line0002 = "rzewo.h"
+File Type = "Include"
+Disk Date = 3725633682
+In Projects = "1,"
+Source Window State = "1,25,25,25,55,55,55,0,0,0,0,0,0,0,0,0,0,0,25,55,400,600,1,0,"
+Window Top = 31
+Window Z-Order = 8
+
+[File 0009]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/d"
+Path Line0002 = "rzewo.c"
+File Type = "CSource"
+Disk Date = 3725632803
+In Projects = "1,"
+Source Window State = "1,228,228,228,5,5,5,0,0,0,0,0,0,0,0,0,0,0,228,5,427,729,1,0,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 7
+
+[File 0010]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³16/k"
+Path Line0002 = "siazka_PRATA_C_rozdzial16.c"
+File Type = "CSource"
+Disk Date = 3724859018
+In Projects = "1,"
+Source Window State = "1,556,556,556,13,13,13,0,0,0,0,0,0,0,0,0,505,0,556,13,401,630,1,0,"
+Window Top = 126
+Window Left = 58
+
+[File 0011]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Path Line0002 = "siazka_PRATA_C_rozdzial17_porady.uir"
+File Type = "User Interface Resource"
+Disk Date = 3725504374
+In Projects = "2,"
+Window Top = 64
+Window Left = 26
+Window Height = 427
+Window Width = 729
+
+[File 0012]
+Path Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Path Line0002 = "siazka_PRATA_C_rozdzial17_porady.c"
+File Type = "CSource"
+Disk Date = 3725505269
+In Projects = "2,"
+Source Window State = "1,5,5,5,0,49,49,0,3,0,0,0,0,0,0,0,0,0,5,0,427,631,1,0,"
+Window Top = 126
+Window Left = 58
+
+[Tab Order]
+Tab 0001 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Tab 0001 Line0002 = "siazka_PRATA_C_rozdzial17.uir"
+Tab 0002 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Tab 0002 Line0002 = "olejka.c"
+Tab 0003 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/l"
+Tab 0003 Line0002 = "ista.h"
+Tab 0004 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/l"
+Tab 0004 Line0002 = "ista.c"
+Tab 0005 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Tab 0005 Line0002 = "olejka.h"
+Tab 0006 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/p"
+Tab 0006 Line0002 = "orady_kolejka.h"
+Tab 0007 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/k"
+Tab 0007 Line0002 = "siazka_PRATA_C_rozdzial17.c"
+Tab 0008 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/d"
+Tab 0008 Line0002 = "rzewo.h"
+Tab 0009 Line0001 = "/d/Elektronika/KOD/Szko³a_porgramowania_C_PRATA/ksi¹¿ka_PRATA_C_rozdzia³17/d"
+Tab 0009 Line0002 = "rzewo.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Default Build Config 0002 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0002 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0002 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0002 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0002]
+Number of Dependencies = 0
+
+[Build Options 0002]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0002]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0002]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0002]
+External Process Path = ""
+
+[Command Line Args 0002]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+

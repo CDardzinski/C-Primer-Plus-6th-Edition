@@ -1,0 +1,35 @@
+[InicjujKolejke]
+Class="Function"
+Prototype="void InicjujKolejke(struct kolejka *wk);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\kolejka.c:11:6"
+
+[PelnaKolejka]
+Class="Function"
+Prototype="_Bool PelnaKolejka(const struct kolejka *wk);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\kolejka.c:16:6"
+
+[PustaKolejka]
+Class="Function"
+Prototype="_Bool PustaKolejka(const struct kolejka *wk);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\kolejka.c:20:6"
+
+[LiczbaPozycjiKolejki]
+Class="Function"
+Prototype="int LiczbaPozycjiKolejki(const struct kolejka *wk);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\kolejka.c:24:5"
+
+[Ustaw]
+Class="Function"
+Prototype="_Bool Ustaw(struct pozycja_porady pozycja, struct kolejka *wk);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\kolejka.c:28:6"
+
+[Odlacz]
+Class="Function"
+Prototype="_Bool Odlacz(struct pozycja_porady *wpozycja, struct kolejka *wk);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\kolejka.c:50:6"
+
+[WyczyscKolejke]
+Class="Function"
+Prototype="void WyczyscKolejke(struct kolejka *kol);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\kolejka.c:65:6"
+

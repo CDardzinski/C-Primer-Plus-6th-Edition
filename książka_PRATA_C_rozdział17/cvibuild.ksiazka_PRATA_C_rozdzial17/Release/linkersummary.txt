@@ -1,0 +1,10 @@
+kolejka.obj
+ksiazka_PRATA_C_rozdzial17.obj
+lista.obj
+cvistart.lib
+cvi.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module

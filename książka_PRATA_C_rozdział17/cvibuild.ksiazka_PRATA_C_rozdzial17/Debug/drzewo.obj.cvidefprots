@@ -1,0 +1,45 @@
+[InicjujDrzewo]
+Class="Function"
+Prototype="void InicjujDrzewo(struct drzewo *wdrzewo);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:24:6"
+
+[PusteDrzewo]
+Class="Function"
+Prototype="_Bool PusteDrzewo(const struct drzewo *wdrzewo);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:29:6"
+
+[PelneDrzewo]
+Class="Function"
+Prototype="_Bool PelneDrzewo(const struct drzewo *wdrzewo);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:36:6"
+
+[LiczbaPozycjiDrzewo]
+Class="Function"
+Prototype="int LiczbaPozycjiDrzewo(const struct drzewo *wdrzewo);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:43:5"
+
+[DodajPozycjeDrzewo]
+Class="Function"
+Prototype="_Bool DodajPozycjeDrzewo(const struct Pozycja *wp, struct drzewo *wdrzewo);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:47:6"
+
+[WDrzewie]
+Class="Function"
+Prototype="_Bool WDrzewie(const struct Pozycja *wp, const struct drzewo *wdrzewo);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:74:6"
+
+[UsunPozycjeDrzewo]
+Class="Function"
+Prototype="_Bool UsunPozycjeDrzewo(const struct Pozycja *wp, struct drzewo *wdrzewo);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:78:6"
+
+[PrzejdzDrzewo]
+Class="Function"
+Prototype="void PrzejdzDrzewo(const struct drzewo *wdrzewo, void (*wfun)(struct Pozycja));"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:93:6"
+
+[UsunWszystkoDrzewo]
+Class="Function"
+Prototype="void UsunWszystkoDrzewo(struct drzewo *wdrzewo);"
+SourceLocation="d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\ksi¹¿ka_PRATA_C_rozdzia³17\drzewo.c:98:6"
+
