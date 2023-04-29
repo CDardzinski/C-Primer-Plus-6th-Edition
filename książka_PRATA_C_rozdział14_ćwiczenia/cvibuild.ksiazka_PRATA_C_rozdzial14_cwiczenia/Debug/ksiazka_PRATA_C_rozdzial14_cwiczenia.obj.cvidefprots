@@ -1,0 +1,205 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:181:5"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:193:17"
+
+[Przyklad1ButtonCallback]
+Class="Function"
+Prototype="int Przyklad1ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:206:17"
+
+[obliczDniDoTegoMiesiaca]
+Class="Function"
+Prototype="int obliczDniDoTegoMiesiaca(char *WybranyMiesiac);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:228:5"
+
+[Przyklad2ButtonCallback]
+Class="Function"
+Prototype="int Przyklad2ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:246:17"
+
+[SprawdzMiesiac]
+Class="Function"
+Prototype="int SprawdzMiesiac(char *miesiac);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:281:5"
+
+[obliczIleDni]
+Class="Function"
+Prototype="int obliczIleDni(int dni, int miesi, int rok);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:314:5"
+
+[Przyklad3ButtonCallback]
+Class="Function"
+Prototype="int Przyklad3ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:333:17"
+
+[wczytaj]
+Class="Function"
+Prototype="char *wczytaj(char *z, int ile);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:369:7"
+
+[SegregujKsiazki]
+Class="Function"
+Prototype="int SegregujKsiazki(int licznik, const struct ksiazka lista[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:385:5"
+
+[WartoscBilioteki]
+Class="Function"
+Prototype="double WartoscBilioteki(int licznik, const struct ksiazka lista[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:431:8"
+
+[Przyklad4ButtonCallback]
+Class="Function"
+Prototype="int Przyklad4ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:443:17"
+
+[WyswietlDaneWStrukturze]
+Class="Function"
+Prototype="void WyswietlDaneWStrukturze(struct danePelne *wsk);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:474:6"
+
+[WyswietlDaneWStrukturzeStruktura]
+Class="Function"
+Prototype="void WyswietlDaneWStrukturzeStruktura(struct danePelne strukturaPrzekzana[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:484:6"
+
+[Przyklad5ButtonCallback]
+Class="Function"
+Prototype="int Przyklad5ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:497:17"
+
+[Przyklad6ButtonCallback]
+Class="Function"
+Prototype="int Przyklad6ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:589:17"
+
+[SprCzySiePowtarza]
+Class="Function"
+Prototype="int SprCzySiePowtarza(struct gracz *wsk, char numer[], char infoDoPrzetworzenia[]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:774:1"
+
+[Przyklad7ButtonCallback]
+Class="Function"
+Prototype="int Przyklad7ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:925:17"
+
+[edytujWczytanyRekord]
+Class="Function"
+Prototype="void edytujWczytanyRekord(struct ksiazka14 *nowaKsiazka);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1010:6"
+
+[Przyklad8ButtonCallback]
+Class="Function"
+Prototype="int Przyklad8ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1024:17"
+
+[FreeSpaceSizeInPlane]
+Class="Function"
+Prototype="void FreeSpaceSizeInPlane(struct FILE *ActuallyOpenFile, int rozmiarPliku);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1119:6"
+
+[FreeSpaceList]
+Class="Function"
+Prototype="void FreeSpaceList(struct FILE *ActuallyOpenFile, int rozmiarPliku);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1134:6"
+
+[ShowList]
+Class="Function"
+Prototype="void ShowList(struct FILE *ActuallyOpenFile, int rozmiarPliku);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1147:6"
+
+[BookPlaceInPlane]
+Class="Function"
+Prototype="void BookPlaceInPlane(struct FILE *ActuallyOpenFile, int rozmiarPliku);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1220:6"
+
+[CanceldBookedPlace]
+Class="Function"
+Prototype="void CanceldBookedPlace(struct FILE *ActuallyOpenFile, int rozmiarPliku);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1269:6"
+
+[Przyklad9ButtonCallback]
+Class="Function"
+Prototype="int Przyklad9ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1315:17"
+
+[MainManu]
+Class="Function"
+Prototype="int MainManu(char FlightNumber[6]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1380:5"
+
+[FreeSpaceSizeInPlaneExersie9]
+Class="Function"
+Prototype="void FreeSpaceSizeInPlaneExersie9(struct FILE *ActuallyOpenFile, int rozmiarPliku, char FlightNumber[6]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1480:6"
+
+[FreeSpaceListExersie9]
+Class="Function"
+Prototype="void FreeSpaceListExersie9(struct FILE *ActuallyOpenFile, int rozmiarPliku, char FlightNumber[6]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1495:6"
+
+[ShowListExersie9]
+Class="Function"
+Prototype="void ShowListExersie9(struct FILE *ActuallyOpenFile, int rozmiarPliku, char FlightNumber[6]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1508:6"
+
+[BookPlaceInPlaneExersie9]
+Class="Function"
+Prototype="void BookPlaceInPlaneExersie9(struct FILE *ActuallyOpenFile, int rozmiarPliku, char FlightNumber[6], char FlightFileName[20]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1589:6"
+
+[CanceldBookedPlaceExersie9]
+Class="Function"
+Prototype="void CanceldBookedPlaceExersie9(struct FILE *ActuallyOpenFile, int rozmiarPliku, char FlightNumber[6], char FlightFileName[20]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1638:6"
+
+[BookedAgrementExersie9]
+Class="Function"
+Prototype="void BookedAgrementExersie9(struct FILE *ActuallyOpenFile, int rozmiarPliku, char FlightNumber[6], char FlightFileName[20]);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1682:6"
+
+[Przyklad10ButtonCallback]
+Class="Function"
+Prototype="int Przyklad10ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1725:17"
+
+[WypiszLitery]
+Class="Function"
+Prototype="int WypiszLitery();"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1769:5"
+
+[WypiszCyfry]
+Class="Function"
+Prototype="int WypiszCyfry();"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1774:5"
+
+[WyjdzZProgramu]
+Class="Function"
+Prototype="int WyjdzZProgramu();"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1779:5"
+
+[Przyklad11ButtonCallback]
+Class="Function"
+Prototype="int Przyklad11ButtonCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1787:17"
+
+[przeksztalc]
+Class="Function"
+Prototype="int przeksztalc(double *zrodlo, double *cel, int elementy, double (*funkcja)(double));"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1854:5"
+
+[potega]
+Class="Function"
+Prototype="double potega(double x);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1864:8"
+
+[sumowanie]
+Class="Function"
+Prototype="double sumowanie(double x);"
+SourceLocation="d:\Biezace_CD\Przyk³ady_kody_z_ksi¹¿ki_PRATA\ksi¹¿ka_PRATA_C_rozdzia³14_æwiczenia\ksiazka_PRATA_C_rozdzial14_cwiczenia.c:1868:8"
+

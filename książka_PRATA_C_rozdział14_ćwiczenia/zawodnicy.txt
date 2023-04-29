@@ -1,0 +1,5 @@
+10 Maciej Zielinski 14 10 8 5
+3 Aleks Gorny 12 3 4 10
+5 Cezar Mistrz 20 18 8 0
+10 Maciej Zielinski 10 6 2 1
+15 Stas Maly 18 10 6 4
