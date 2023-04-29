@@ -1,0 +1,9 @@
+hotel.obj
+ksiazka_PRATA_C_rozdzial9.obj
+cvi.lib
+cvistart.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module
