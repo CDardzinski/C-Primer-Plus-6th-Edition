@@ -1,0 +1,42 @@
+CCFLAGS = -g ;
+HDRS = 	"c:\\program files\\national instruments\\cvi2020\\toolslib\\activex\\word"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\activex\\excel"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\custctrl"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\custctrl\\custsupp"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\cvirtsup"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\datasock"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\daqUtil"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\printing"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\toolbox"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\reportgen"
+	"c:\\program files\\national instruments\\cvi2020\\toolslib\\localui"
+	"c:\\program files\\national instruments\\cvi2020\\instr"
+	"C:\\Program Files\\National Instruments\\Shared\\CVI\\toolslib\\custctrl"
+	"C:\\Program Files\\National Instruments\\Shared\\CVI\\toolslib\\custctrl\\custsupp"
+	"C:\\Program Files\\National Instruments\\Shared\\CVI\\instr"
+	"C:\\ProgramData\\National Instruments\\CVI2020\\instr"
+	"c:\\program files\\national instruments\\cvi2020\\include"
+	"C:\\Program Files\\National Instruments\\Shared\\CVI\\include"
+	"C:\\ProgramData\\National Instruments\\CVI2020\\include"
+	"C:\\ProgramData\\National Instruments\\CVI\\include"
+	"c:\\program files\\national instruments\\cvi2020\\include\\ansi"
+	"c:\\program files\\national instruments\\cvi2020\\include\\clang\\3.3"
+	"C:\\Program Files\\IVI Foundation\\IVI\\Include"
+	"C:\\Program Files\\IVI Foundation\\VISA\\winnt\\include"
+	"C:\\Program Files\\National Instruments\\Shared\\MSDTRedistributables\\SDKHeaderFiles\\8.1"
+	"c:\\Program Files\\National Instruments\\CVI2020\\bin"
+	"c:\\Program Files\\National Instruments\\Shared\\CVI\\Bin"
+	;
+include Jamfile_instr ;
+LOCATE on "ksiazka_PRATA_C_rozdzial5.c" = "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5" ;
+Object "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.obj" : "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\ksiazka_PRATA_C_rozdzial5.c" ;
+FILENUM on "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.obj" = 1 ;
+DEFPROTS on "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.obj" = "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.obj.cvidefprots" ;
+OUTFILE on "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.obj" = "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.obj.out" ;
+PrjObjects += "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.obj" ;
+Object "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\resources.res" : "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\resources.in.rc" ;
+Depends "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\resources.res" : "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\manifest.xml" ;
+MainFromObjects "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.exe" : $(PrjObjects) $(InstrObjects) ;
+Depends "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.exe" : "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\link_options.txt" ;
+Depends "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.exe" : "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\resources.res" ;
+Depends all : "d:\\Bie¿¹ce_CD\\Przyk³ady_kody_z_ksi¹¿ki_PRATA\\ksi¹¿ka_PRATA_C_rodzial5\\cvibuild.ksiazka_PRATA_C_rozdzial5\\Debug\\ksiazka_PRATA_C_rozdzial5.exe" ;

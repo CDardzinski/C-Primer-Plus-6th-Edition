@@ -1,0 +1,1 @@
+-force-include-file "ksiazka_PRATA_C_rozdzial7.c";"d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial7\ksiazka_PRATA_C_rozdzial7.c" -force-include-file "ksiazka_PRATA_C_rozdzial7_cwiczenia.c";"d:\Elektronika\KOD\Szko³a_porgramowania_C_PRATA\Ksi¹¿ka_PRATA_C_rodzial7_æwiczenia\ksiazka_PRATA_C_rozdzial7_cwiczenia.c" 
